@@ -12,7 +12,7 @@
 
 Hi, I'm Yundong, a passionate self-taught developer from CHINA.
 
-- 💖  I’m like Dota2, Music, Art, Nature
+- 💖  I’m like Dota2, Music, Art, World
 - 🌱  I’m currently learning Flutter
 - 📖  I’m currently reading [《文城》](https://item.jd.com/13103720.html)(wen cheng)
 - 💬  Ask me about anything [here](https://github.com/yundongzhang/yundongzhang/issues)
