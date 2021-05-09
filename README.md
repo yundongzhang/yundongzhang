@@ -27,26 +27,6 @@ Hi, I'm Yundong, a passionate self-taught developer from CHINA.
 
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Yundong/github-readme-stats)*
-
-
-<a href="https://github.com/Yundong/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.Yundong1.vercel.app/api?username=Yundong&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/Yundong/github-readme-stats">
-  <!-- Change the `github-readme-stats.Yundong1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Yundong1.vercel.app/api/top-langs/?username=Yundong&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/Yundong/github-readme-stats">
-  <!-- Change the `github-readme-stats.Yundong1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Yundong1.vercel.app/api/pin/?username=Yundong&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/Yundong/Yundong.github.io">
-  <!-- Change the `github-readme-stats.Yundong1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Yundong1.vercel.app/api/pin/?username=Yundong&repo=Yundong.github.io&theme=material-palenight" />
-</a>
-
 📊 **This week I spent my time on**
 
-![time stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yundong&hide_title=true&hide_border=true&langs_count=5)
+![](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yundong&hide_title=true&hide_border=true&langs_count=5)
