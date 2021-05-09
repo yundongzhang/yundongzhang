@@ -4,7 +4,7 @@
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/yundongzhang/yundongzhang/master/assets/twitter.svg" />
 </a>
 <a href="https://www.jianshu.com/u/899c1775022b">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/yundongzhang/yundongzhang/master/assets/jianshu.png" />
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/yundongzhang/yundongzhang/master/assets/jian.png" />
 </a>
 
 <br />
