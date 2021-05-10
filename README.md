@@ -43,4 +43,4 @@ Hi, I'm Yundong, a passionate self-taught developer from CHINA.
 
 **This week I spent my time on**
 
-![](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yundong&hide_title=true&hide_border=true&langs_count=5)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yundong)
