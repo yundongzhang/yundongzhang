@@ -14,7 +14,7 @@ Hi, I'm Yundong, a passionate self-taught developer from CHINA.
 
 - 💖  I’m like Dota2, Music, Art, World
 - 🌱  I’m currently learning Flutter
-- 📖  I’m currently reading [《文城》](https://item.jd.com/13103720.html)
+- 📖  I’m currently reading [《Educated:A Memoir》](https://www.amazon.cn/dp/B072BLVM83)
 - 💬  Ask me about anything [here](https://github.com/yundongzhang/yundongzhang/issues)
 
 **Languages and Tools:**  
