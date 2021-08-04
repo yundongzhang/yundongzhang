@@ -1,8 +1,8 @@
-### Hi there, I'm [Yundong!](http://isyundong.net) 👋
+### Hi there, I'm [Yundong!](http://isyundong.com) 👋
 
-<a href="https://www.jianshu.com/u/899c1775022b">
+<!-- <a href="https://www.jianshu.com/u/899c1775022b">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/yundongzhang/yundongzhang/master/assets/jian.png" />
-</a>
+</a> -->
 <a href="https://twitter.com/z971003">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/yundongzhang/yundongzhang/master/assets/twitter.svg" />
 </a>
