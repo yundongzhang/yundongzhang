@@ -13,8 +13,8 @@
 Hi, I'm Yundong, a passionate self-taught developer from CHINA.
 
 - 💖  I’m like Dota2, Music, Art, World
-- 🌱  I’m currently learning Flutter
-- 📖  I’m currently reading [《无名之町》](https://item.jd.com/12866773.html)
+- 🌱  I’m currently learning GoF23
+- 📖  I’m currently reading [《秋园》](https://item.jd.com/12855460.html)
 - 💬  Ask me about anything [here](https://github.com/yundongzhang/yundongzhang/issues)
 
 **Languages and Tools:**  
