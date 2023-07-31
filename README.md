@@ -12,7 +12,7 @@
 
 Hi, I'm Yundong, a passionate self-taught developer from CHINA.
 
-- 💖  I’m like Dota2, Music, Art, World
+- 💖  I like Dota2, Music, Art, World
 - 🌱  I’m currently learning GoF23
 - 📖  I’m currently reading [《鹿川有许多粪》](https://item.jd.com/12932605.html)
 - 💬  Ask me about anything [here](https://github.com/yundongzhang/yundongzhang/issues)
